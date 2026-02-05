@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_mythopoeic_spiritual_seeking",
+  "title": "The Abyss That Gazes Back",
+  "tagline": "A fisherman's son must navigate the treacherous waters between myth and reality to find a father lost to the deep.",
+  "target_words": 70000,
+  "actual_words": 75896,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of Absence",
+    "Myth as Living Geography",
+    "The Labor of Belief",
+    "The Seeker's Descent"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Salt and the Sign",
+      "words": 3162
+    },
+    {
+      "ch": 2,
+      "title": "The Unlit Hearth",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Oracle's Price",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The First Descent",
+      "words": 3150
+    },
+    {
+      "ch": 5,
+      "title": "Dreams of Knossos",
+      "words": 3180
+    },
+    {
+      "ch": 6,
+      "title": "The Smith's Bargain",
+      "words": 3220
+    },
+    {
+      "ch": 7,
+      "title": "Chartering the *Question*",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Beyond the Pillars of Theron",
+      "words": 3300
+    },
+    {
+      "ch": 9,
+      "title": "The Island of Echoes",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Naming of Fear",
+      "words": 3120
+    },
+    {
+      "ch": 11,
+      "title": "Kairos of the Leviathan",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Drowned Temple",
+      "words": 3500
+    },
+    {
+      "ch": 13,
+      "title": "Not Wreckage, but Seed",
+      "words": 3180
+    },
+    {
+      "ch": 14,
+      "title": "The Labyrinth Without Walls",
+      "words": 3250
+    },
+    {
+      "ch": 15,
+      "title": "The Minotaur's Truth",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "A Thread of Seaweed",
+      "words": 3050
+    },
+    {
+      "ch": 17,
+      "title": "The Forge Beneath the Waves",
+      "words": 3300
+    },
+    {
+      "ch": 18,
+      "title": "Poseidon's Silence",
+      "words": 3150
+    },
+    {
+      "ch": 19,
+      "title": "The Cost of a Question",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "Anchors in the Aether",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "The Last Net",
+      "words": 3050
+    },
+    {
+      "ch": 22,
+      "title": "The Return That Is a Leaving",
+      "words": 3180
+    },
+    {
+      "ch": 23,
+      "title": "Libations to a Horizon",
+      "words": 3120
+    },
+    {
+      "ch": 24,
+      "title": "The Fisher of Souls",
+      "words": 3250
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Lykos encounters a minor god of a forgotten freshwater spring, who offers a cryptic piece of the puzzle in exchange for a story Lykos must 'drown' in the spring.",
+      "Draft a scene from the perspective of Theron, years earlier, witnessing his own mythic encounter that hardened him against 'dreaming'.",
+      "Create a 'mythic interlude'—a short, parable-like story told by a character Lykos meets, that reflects the novel's themes of seeking and transformation.",
+      "Write a letter Lykos composes but never sends, to his mother or to the ghost of his father, at a key moment of despair or revelation on his journey."
+    ],
+    "technical": [
+      "Build an interactive map of Lykos's journey, where geographic locations are overlayed with their associated myths, symbols, and Lykos's internal state at each point.",
+      "Create a 'Kairos Engine'—a simple text generator or interactive fiction snippet that presents the user with sensory details (wind, light, sound) and asks them to intuit the 'right moment' for a pivotal action, reflecting Lykos's developing skill."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin",
+      "Mary Renault",
+      "John Keats",
+      "Carl Jung"
+    ]
+  },
+  "cover_prompt": "A young man in a worn wool sweater stands at the prow of a simple wooden fishing boat, his gaze fixed on a churning, unnatural whirlpool in the twilight sea, where the silhouette of a larger vessel is being consumed by the deep, [Detailed Scene & Context: The scene is the mythic boundary where the North Atlantic meets the impossible; the water is both liquid and marble, etched with faint, glowing patterns of ancient glyphs that tell of oceanic titans. In the distance, spectral shapes that are both whale and leviathan breach the foam, and the sky holds a constellation that mirrors the whirlpool's spiral], [Artistic Style & Medium: in the atmospheric and mythic style of John William Waterhouse and Zdzisław Beksiński, blending pre-raphaelite romanticism with sublime, textured surrealism, rendered in oil painting with impasto texture and glaze layers], [Composition & Camera: book cover framing, a centered and intimate portrait composition that places the seeker in immediate peril, shot from a low angle on the boat deck to emphasize the monumental scale of the oceanic abyss], [Lighting & Color Palette: dramatic chiaroscuro lighting where the last cold, phosphorescent light of dusk clings to the waves and the youth's face, contrasting with the warm, bioluminescent glow emanating from the deep abyss, palette of deep Prussian blue, slate grey, bruised purple, and ethereal gold], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
