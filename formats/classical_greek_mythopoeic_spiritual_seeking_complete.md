@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The salt was the first thing. It was always the first thing. It crusted the lashes of the boy at the prow, dried his lips to a map of cracks, and filled his mouth with the memory of every tear he had not shed. The sea, the *thalassa*, was not blue today. It was the color of a bruise, of weathered slate, of the underbelly of a dolphin. It heaved beneath the keel of the *Dolphin’s Leap* not with malice, but with a vast, indifferent patience. It had been here before men learned to tie reeds into boats. It would be here after.
+Kassandra’s fingers found the cold, dry earth before dawn. Not to plant, but to dig. Her city dreamed of commerce and conquest above, while her nails split against stones, seeking what the oracles refused to name: a god who would answer without riddles, a truth that would not bend. The hole deepened. Only the scent of iron and old roots kept her company.
+
 
 “Lykos! Stop praying to the fish and check the lines.”
 
